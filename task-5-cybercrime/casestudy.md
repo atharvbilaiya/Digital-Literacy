@@ -38,5 +38,3 @@ UPI (Unified Payments Interface) fraud is basically when someone tricks you into
 ---
 
 **Source:** National Cyber Crime Reporting Portal (cybercrime.gov.in); RBI Guidelines on Digital Payment Safety (2023)
-
-*Note: This case study is based on a realistic composite scenario put together from publicly reported fraud cases in India.*
