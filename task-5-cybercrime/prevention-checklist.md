@@ -44,7 +44,3 @@
 | **Local Police** | File an FIR at your nearest cyber cell |
 
 > ⚠️ **Report within the first hour** if you've been scammed financially — the quicker you report, the better the chance of getting the money frozen before it disappears.
-
----
-
-*Prepared as part of CSE0001 — Digital Literacy, VIT Bhopal University*
